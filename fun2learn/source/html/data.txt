@@ -1,0 +1,10 @@
+cow;This gives milk;Animals1.jpg
+tiger;runs very fast. has sharp teeth, strong jaws;Animals2.jpg
+lion;king of jungle;Animals3.jpg
+dog;considered as best human friend;Animals4.jpg
+pig;a small toy has their name. toy is used to collect money;Animals5.jpg
+crow;These will eat almost anything, from insects and small animals such as frogs to fruit and nuts;Animals6.jpg
+cat;are one of, if not the most, popular pet in the world;Animals7.jpg
+cheetah;This is the fastest animal;Animals8.jpg
+pigeon;These are birds with short necks, and short, slender bills with fleshy ceres. They feed on seeds, fruits, and plants.;Animals9.jpg
+zebra;Black and white stripes make them. These are one of the most recognizable animals in the world.;Animals10.jpg

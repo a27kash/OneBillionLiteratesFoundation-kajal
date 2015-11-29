@@ -1,0 +1,2 @@
+earphone;earphone is for listening;accessories1.jpg
+shoes;shoes are for wearing;accessories2.jpg
